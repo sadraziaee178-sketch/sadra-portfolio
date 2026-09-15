@@ -308,9 +308,6 @@ body.light {
   --p: #201c25;
 }
 @media (max-width: 768px) {
-  .profile-card {
-    margin:0 10%;
-  }
   main,
   footer {
     transition: filter 0.3s ease;
